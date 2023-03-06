@@ -1,0 +1,29 @@
+,city,state,lat,lng,airport_name,airport_address,airport_ratng
+0,Asheville,North Carolina,35.5950581,-82.5514869,Asheville Regional Airport,"61 Terminal Dr #1, Fletcher",4.2
+1,Austin,Texas,30.267153,-97.7430608,Austin-Bergstrom International Airport,"3600 Presidential Blvd, Austin",4.2
+2,Boston,Massachusetts,42.3600825,-71.0588801,Boston Logan International Airport,Boston,4.1
+3,Broward County,Florida,26.190096,-80.365865,Miami International Airport,"2100 NW 42nd Ave, Miami",4
+4,Cambridge,Massachusetts,42.3736158,-71.10973349999999,Boston Logan International Airport,Boston,4.1
+5,Chicago,Illinois,41.8781136,-87.6297982,O'Hare International Airport,"10000 W Balmoral Ave, Chicago",4
+6,Clark County,Nevada,36.0795613,-115.094045,Harry Reid International Airport,"5757 Wayne Newton Blvd, Las Vegas",4.2
+7,Columbus,Ohio,39.9611755,-82.99879419999999,John Glenn Columbus International Airport,"4600 International Gateway, Columbus",4.3
+8,Denver,Colorado,39.7392358,-104.990251,Denver International Airport,"8500 Peña Blvd, Denver",4.1
+9,Hawaii,Hawaii,19.8967662,-155.5827818,Kona International Airport,"73-200 Kupipi St, Kalaoa",3.9
+10,Jersey City,New Jersey,40.7177545,-74.0431435,John F. Kennedy International Airport,Queens,4
+11,Los Angeles,California,34.0522342,-118.2436849,Los Angeles International Airport,"1 World Way, Los Angeles",3.9
+12,Nashville,Tennessee,36.1626638,-86.7816016,Nashville International Airport,"1 Terminal Dr, Nashville",4.2
+13,New Orleans,Louisiana,29.95106579999999,-90.0715323,Louis Armstrong New Orleans International Airport,"1 Terminal Dr, Kenner",4.2
+14,New York City,New York,40.7127753,-74.0059728,John F. Kennedy International Airport,Queens,4
+15,Oakland,California,37.8043514,-122.2711639,Oakland International Airport,"1 Airport Dr, Oakland",4.2
+16,Pacific Grove,California,36.6177374,-121.9166215,Monterey Regional Airport,"200 Fred Kane Dr, Monterey",4.5
+17,Portland,Oregon,45.515232,-122.6783853,Portland International Airport,"7000 NE Airport Way, Portland",4.5
+18,Rhode Island,Rhode Island,41.5800945,-71.4774291,Rhode Island T.F. Green International Airport,"2000 Post Rd, Warwick",4.4
+19,Salem,Oregon,44.9428975,-123.0350963,Aurora State Airport,"22801 Airport Rd NE, Aurora",4.8
+20,San Clara Country,California,37.3336581,-121.8907041,Oakland International Airport,"1 Airport Dr, Oakland",4.2
+21,San Diego,California,32.715738,-117.1610838,San Diego International Airport,"3225 N Harbor Dr, San Diego",4.3
+22,San Francisco,California,37.7749295,-122.4194155,Oakland International Airport,"1 Airport Dr, Oakland",4.2
+23,San Mateo County,California,37.4337342,-122.4014193,Oakland International Airport,"1 Airport Dr, Oakland",4.2
+24,Santa Cruz County,California,37.0453988,-121.9579578,Norman Y. Mineta San Jose International Airport,"1701 Airport Blvd, San Jose",4.4
+25,Seattle,Washington,47.6062095,-122.3320708,Seattle-Tacoma International Airport,"17801 International Blvd, Seattle",4.1
+26,Twin Cities MSA,Minnesota,44.9374831,-93.20099979999999,Minneapolis−Saint Paul International Airport,Minnesota,4.3
+27,Washington D.C.,District of Columbia,38.9071923,-77.0368707,Dulles International Airport,"1 Saarinen Cir, Dulles",4.1

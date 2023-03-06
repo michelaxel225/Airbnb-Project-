@@ -1,0 +1,176 @@
+,sample_id,city,duration_min,distance_m
+0,1,New York City,23.525,18470.4
+1,2,New Orleans,10.883,10099.6
+2,3,New York City,22.503,11778.1
+3,4,Rhode Island,626.168,857422.7
+4,5,New York City,13.957,6822.5
+5,6,Boston,16.665,12672.6
+6,7,New York City,10.32,5735.4
+7,8,New York City,12.702,9863.6
+8,9,New Orleans,4.452,2937.7
+9,10,Washington D.C.,12.128,8748.3
+10,11,New Orleans,5.81,3570.2
+11,12,Clark County,9.173,7028.7
+12,13,Los Angeles,6.847,5561.1
+13,14,Washington D.C.,7.817,3967.8
+14,15,San Francisco,6.007,3299.3
+15,16,Nashville,15.957,11435.4
+16,17,Rhode Island,686.905,852556.1
+17,18,New York City,21.413,15638.7
+18,19,Washington D.C.,6.193,2965.4
+19,20,Oakland,8.832,8251.1
+20,21,New York City,15.432,8979.6
+21,22,Nashville,20.218,18145.6
+22,23,Los Angeles,45.012,52733.1
+23,24,Nashville,14.17,11618.0
+24,25,Los Angeles,10.005,6981.4
+25,26,Los Angeles,29.577,28032.4
+26,27,New Orleans,4.553,3064.2
+27,28,Jersey City,5.812,4039.2
+28,29,San Diego,14.772,15731.8
+29,30,Washington D.C.,8.71,4930.7
+30,31,Seattle,14.523,10164.6
+31,32,Oakland,3.413,1887.4
+32,33,New York City,21.578,16313.8
+33,34,New York City,40.188,39443.7
+34,35,San Francisco,14.837,9407.1
+35,36,Seattle,17.462,16162.7
+36,37,Nashville,8.328,5418.9
+37,38,Nashville,10.728,8652.7
+38,39,San Francisco,6.91,3850.7
+39,40,San Diego,1.948,1074.7
+40,41,Washington D.C.,9.632,5807.6
+41,42,Portland,8.548,5608.1
+42,43,Portland,11.818,8910.9
+43,44,New York City,8.54,3808.8
+44,45,Austin,7.508,4010.2
+45,46,Austin,7.43,6887.9
+46,47,Austin,5.458,3958.3
+47,48,Los Angeles,15.008,11635.8
+48,49,Broward County,20.132,16679.2
+49,50,Pacific Grove,2.37,1383.1
+50,51,Clark County,18.467,21206.6
+51,52,Seattle,14.165,9089.6
+52,53,Los Angeles,16.208,12107.7
+53,54,New Orleans,6.56,4069.1
+54,55,Portland,22.048,19646.3
+55,56,San Diego,2.915,1703.9
+56,57,Los Angeles,22.243,19157.0
+57,58,New Orleans,4.815,2994.3
+58,59,Portland,10.053,7691.3
+59,60,Oakland,12.755,10948.7
+60,61,New York City,3.658,1649.6
+61,62,Austin,20.963,17898.0
+62,63,Twin Cities MSA,16.052,12057.9
+63,64,New York City,12.642,5942.4
+64,65,Broward County,15.2,11835.5
+65,66,Chicago,9.7,6600.6
+66,67,Denver,6.047,3148.1
+67,68,Portland,15.782,9048.1
+68,69,San Francisco,5.832,3494.5
+69,70,New York City,13.222,7529.2
+70,71,New York City,16.923,10345.0
+71,72,Los Angeles,32.835,29482.7
+72,73,New York City,9.328,4117.8
+73,74,Seattle,16.703,9905.2
+74,75,Los Angeles,22.83,15978.9
+75,76,Boston,1.322,634.0
+76,77,Nashville,26.548,23609.8
+77,78,San Diego,9.567,10142.2
+78,79,Clark County,15.07,12341.1
+79,80,Portland,6.752,2792.0
+80,81,Los Angeles,23.222,19571.6
+81,82,New York City,10.048,7428.2
+82,83,Denver,30.252,26194.1
+83,84,Columbus,6.068,3856.8
+84,85,Seattle,1.288,476.5
+85,86,Chicago,4.862,2150.0
+86,87,Nashville,6.545,3794.5
+87,88,Broward County,21.398,16603.8
+88,89,New York City,8.883,5692.3
+89,90,San Mateo County,24.07,22102.2
+90,91,Nashville,6.915,4734.4
+91,92,Austin,6.572,4292.5
+92,93,New York City,21.037,14406.9
+93,94,Washington D.C.,12.028,8520.9
+94,95,Rhode Island,647.327,883003.5
+95,96,Los Angeles,24.473,26572.8
+96,97,Los Angeles,23.085,20687.2
+97,98,Rhode Island,601.082,829526.5
+98,99,Oakland,7.885,5869.3
+99,100,Denver,12.865,7394.3
+100,101,Los Angeles,36.067,41172.1
+101,102,New York City,13.617,6692.6
+102,103,Seattle,16.833,10741.4
+103,104,Los Angeles,14.307,12077.6
+104,105,Austin,4.295,2880.3
+105,106,New Orleans,1.298,688.1
+106,107,Los Angeles,4.662,3748.9
+107,108,Denver,3.632,1677.1
+108,109,San Diego,15.038,10800.1
+109,110,Nashville,12.048,9238.5
+110,111,New York City,17.308,12594.4
+111,112,San Mateo County,33.57,35427.3
+112,113,Los Angeles,38.042,42554.4
+113,114,Seattle,6.162,2817.2
+114,115,Chicago,22.353,19245.1
+115,116,New York City,13.5,7748.5
+116,117,San Mateo County,35.137,37970.4
+117,118,San Diego,2.73,1568.7
+118,119,Oakland,8.155,4780.7
+119,120,Portland,8.29,4003.2
+120,121,San Diego,25.698,31744.9
+121,122,Seattle,11.045,5182.1
+122,123,San Francisco,11.48,10510.4
+123,124,New York City,21.477,16278.5
+124,125,Nashville,4.403,2573.0
+125,126,Washington D.C.,9.925,5519.2
+126,127,Santa Cruz County,7.13,7419.5
+127,128,Asheville,12.942,9825.8
+128,129,Los Angeles,19.787,16806.3
+129,130,Clark County,4.273,2649.4
+130,131,New York City,13.833,7778.1
+131,132,Clark County,4.697,2826.4
+132,133,San Mateo County,36.422,38358.6
+133,134,San Francisco,8.3,4425.4
+134,135,New York City,16.742,10263.6
+135,136,Broward County,5.383,3569.9
+136,137,Los Angeles,24.023,20961.1
+137,138,San Francisco,6.12,3515.0
+138,139,New York City,24.273,17106.8
+139,140,Chicago,11.85,9863.3
+140,141,Seattle,19.665,16145.4
+141,142,Los Angeles,37.452,36485.5
+142,143,Austin,7.65,6344.8
+143,144,Washington D.C.,12.248,9574.1
+144,145,New York City,20.837,10765.9
+145,146,Los Angeles,25.328,27552.3
+146,147,Seattle,13.325,9045.3
+147,148,Twin Cities MSA,2.51,1262.5
+148,149,New York City,26.285,21333.3
+149,150,New York City,22.155,16599.0
+150,151,New York City,18.64,11411.3
+151,152,New York City,12.057,6959.7
+152,153,Austin,4.305,2392.7
+153,154,Portland,11.312,7419.6
+154,155,San Diego,12.782,12640.1
+155,156,Clark County,15.037,12225.5
+156,157,Broward County,26.102,21254.1
+157,158,Twin Cities MSA,25.185,24757.1
+158,159,New York City,23.6,17484.8
+159,160,Clark County,20.63,20385.8
+160,161,Twin Cities MSA,5.957,3044.9
+161,162,New York City,11.872,7710.9
+162,163,Los Angeles,12.358,9250.6
+163,164,Portland,12.788,10831.4
+164,165,New York City,13.327,6500.6
+165,166,Los Angeles,10.803,8325.6
+166,167,Seattle,8.487,3918.5
+167,168,Broward County,30.19,31688.3
+168,169,Washington D.C.,6.627,2787.0
+169,170,Broward County,25.195,23910.2
+170,171,Los Angeles,23.712,23347.9
+171,172,Clark County,8.413,5797.3
+172,173,Rhode Island,650.84,885725.8
+173,174,Washington D.C.,15.968,10901.7
+174,175,Seattle,4.275,1698.8
